@@ -1,2 +1,2 @@
 ---
-Licensed under a Creative Commons Attribution license 4.0
+Licensed under a Creative Commons Attribution License 4.0
