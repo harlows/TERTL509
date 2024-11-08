@@ -8,4 +8,4 @@ Digital literacy is a relatively new concept that emerged in the 1990s during th
 
 Gilster (1997) further defined digital literacy as “the ability to understand and use information in multiple formats from a wide range of sources when it is presented via computers” (p. 1). For him, digital literacy involves the ability to critically evaluate information (presented in different formats) and make decisions about how to use this information in different real-life contexts.
 
-By the end of this chapter you will be able to define the concept of digital literacy and its many different components, reflect on your own digital literacy, engage with the digital world responsibly, and be empowered as a digital citizen capable of helping others learn and develop their role in the digital world.
+By the end of this paper you will be able to define the concept of digital literacy and its many different components, reflect on your own digital literacy, engage with the digital world responsibly, and be empowered as a digital citizen capable of helping others learn and develop their role in the digital world.
