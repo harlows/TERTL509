@@ -19,9 +19,13 @@ Much of what you find in your search will probably suggest a relationship betwee
 
 Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
 
+* * *
+
 ### The Concept of Digital
 
 So what is digital? When you thought about your digital self in [Activity 1](your-digital-self.md), you probably thought about the digital tools and technologies that are available to you. For example: “Oh, I use text messaging on my cell phone to communicate with friends.” Or: “I use email at university on my laptop or in the computer lab to communicate with faculty.” But the digital part (just like literacy) depends on context. The technology that you use and may even take for granted is not the same technology that your grandparents use or that students in another country use. This is why the concept of digital literacy is more often now referred to as digital literacies as a plural, acknowledging the variability of what is both available and relevant.
+
+* * *
 
 ### Digital Literacy
 
@@ -29,8 +33,9 @@ Since the [pioneering introduction of computers into education in the 1960s](htt
 
 |  | Information Literacy | Media Literacy | Computer Literacy | Digital Literacy |
 |---|---|---|---|---|
-| Definition | the ability to locate, identify, retrieve, process and use digital information optimally (UNESCO, 2011) | the ability to access the media, to understand and to critically evaluate different aspects of the media and media content, and to create communications in a variety of contexts (European Commission, 2007) | a set of user skills that enable active participation in a society where services and cultural offerings are computer supported and distributed on the Internet (UNESCO, 2011) | those capabilities which fit an individual for living, learning and working in a digital society (JISC, 2015) |
-| Primary Focus | information retrieval and assessment of quality | evaluation and production of media texts | skills in the use of computer-related technology | innovation, collaboration, lifelong learning |
+| **Definition** | the ability to locate, identify, retrieve, process and use digital information optimally (UNESCO, 2011) | the ability to access the media, to understand and to critically evaluate different aspects of the media and media content, and to create communications in a variety of contexts (European Commission, 2007) | a set of user skills that enable active participation in a society where services and cultural offerings are computer supported and distributed on the Internet (UNESCO, 2011) | those capabilities which fit an individual for living, learning and working in a digital society (JISC, 2015) |
+| **Primary Focus** | information retrieval and assessment of quality | evaluation and production of media texts | skills in the use of computer-related technology | innovation, collaboration, lifelong learning |
+
 Table 1: Summary of Key Concepts (adapted from Brown et al., 2016, CC-BY-SA)
 
 The concept of digital literacy only started to gain attention in the last decade. Initially digital literacy was viewed primarily as the functional skills and competencies that people needed in order to use computers and the Internet. However in the last decade this has been expanded to consider the broader capacity needed to participate in a digital environment. UNESCO (2011) views digital literacy as a life skill that not only increases employability, but serves as a catalyst that “enables the acquisition of other important life skills” (p. 1).
