@@ -13,6 +13,6 @@ You probably already use a range of technologies and digital tools in different 
 >
 > You might like to try doing this digitally using this editable mind map about [digital footprints](https://creately.com/diagram/example/gu9tfwix2/digital-footprint) on [creatly.com](https://creately.com/) or by making a drawing of your digital self on paper.
 
-![](images/My-Digital-Self-Example-1-1024x724)
+![](images/My-Digital-Self-Example-1-1024x724.jpg)
 
-![](images/My-digital-self-example-4-1024x724)
+![](images/My-digital-self-example-4-1024x724.jpg)
