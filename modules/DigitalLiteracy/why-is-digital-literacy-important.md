@@ -13,7 +13,7 @@ You might be familiar with the concept of a “digital native” or the “net g
 
 In fact, this generational desire to be constantly connected has even been inserted into Maslow’s hierarchy of needs as the ultimate foundation of basic human needs. This [psychological model](https://www.simplypsychology.org/maslow.html) is depicted as a pyramid with people’s basic survival needs as its foundation which need to be satisfied before people can realise their full potential.
 
-![Maslow's Hierarchy of Needs with WiFi added as the most basic need}(images/9730894552_47507ab767_o-300x271.jpg)
+![Maslow's Hierarchy of Needs with WiFi added as the most basic need](images/9730894552_47507ab767_o-300x271.jpg)
 
 People’s basic survival needs depicted as a pyramid.
 
@@ -25,7 +25,7 @@ There are many answers, and hopefully this introduction has already hinted at so
 
 One way of visualizing this is Sharpe and Beetham’s (2010) [digital literacy development model](https://www.jisc.ac.uk/full-guide/developing-digital-literacies).
 
-![Beetham and Sharpe ‘pyramid model’ of digital literacy development model (2010)](images/beetham-sharpe.jpg)
+![Beetham and Sharpe ‘pyramid model’ of digital literacy development model (2010)](images/beetham-sharpe.png)
 
 Sharpe and Beetham’s ‘pyramid model’ of digital literacy development model (2010). Reproduced with permission of the authors.
 
