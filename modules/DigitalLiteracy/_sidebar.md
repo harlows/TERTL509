@@ -4,3 +4,4 @@
 - [Introduction](introduction.md)
 - [Your Digital Self](your-digital-self.md)
 - [What is digital literacy?](what-is-digital-literacy.md)
+- [Why is digital literacy important?](why-is-digital-literacy-important.md)
