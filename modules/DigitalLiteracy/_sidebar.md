@@ -2,4 +2,4 @@
 
 - [Overview](overview.md)
 - [Introduction](introduction.md)
-- [Digital Self](digital-self.md)
+- [Your Digital Self](your-digital-self.md)
