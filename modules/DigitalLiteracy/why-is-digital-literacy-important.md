@@ -4,7 +4,7 @@ You might be familiar with the concept of a “digital native” or the “net g
 
 * * *
 
-### Activity #3:
+### Activity #3
 #### Generational View of Digital Natives
 
 > There are many cartoons online that comment on the amusing side of this concept. Do a search on Google (or your favourite search engine) for “digital native” a cartoon. You might see images of kids looking at a book with shock and asking each other, “Where is the ‘on’ button?” Or you might see a child returning home from school walking right past their parent exclaiming, “How do you think it was? They didn’t even have Wi-Fi!”
