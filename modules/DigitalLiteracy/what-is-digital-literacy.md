@@ -8,7 +8,7 @@ It is important to pause and note that the term literacy has always held a degre
 
 * * * 
 
-### Activity #2:
+### Activity #2
 #### How is literacy depicted on the Internet?
 
 > Use a common search engine like Google and type the term “literacy” into the search bar. Select the option to view the results as images and scroll through the visual depictions of literacy. What do these images depict about the concept of literacy?
