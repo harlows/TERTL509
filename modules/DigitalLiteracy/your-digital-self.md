@@ -6,7 +6,7 @@ You probably already use a range of technologies and digital tools in different 
 
 ### Activity #1
 ### Thinking About Your Digital Self
-:fas fa-regular fa-clock: Allow about 20 minutes
+:fas fa-clock fa-fw: Allow about 20 minutes
 > Think about all the ways you use technology in your personal life (e.g. for entertainment, shopping, sharing photos, communicating with people, etc). Who do you interact with digitally, and how do you do this (i.e., what applications/websites do you use and for which purpose)? Now think about yourself as a student and the ways you use technology for learning?
 >
 > Make a list or draw a diagram of your activities, noting the groups or networks you interact with digitally and thinking about how you use digital technology in the various spheres of your life.
