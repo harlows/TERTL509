@@ -7,9 +7,11 @@ This paper is aimed at helping you develop your digital literacy in relation to 
 ### Activity #4
 #### How digitally literate are you?
 
-> Why not take stock of where you are right now. What are your key areas of digital competence?
+> Why not take stock of where you are right now. What are your key areas of digital competence as a university teacher?
 >
-> Download this model of the [digital literacy development framework](https://waikatouniversitynz-my.sharepoint.com/:w:/g/personal/stephen_harlow_waikato_ac_nz/EVsMiNUkCmBLheD510cQZNsBN9i8zM14FLQJT5u1t-_GzQ?e=6B1lKb) and complete it while thinking about your access, skills, practices and identities. This will help you take stock of where you are now and help you focus on where you want to develop.
+> Complete the Digital Competence Scale for University Teachers (DCS-UT) questionnaire while thinking about your use of digital tools, practises, and strategies for engaging students through technology. This will help you take stock of where you are now and help you focus on where you want to develop.
+>
+> You can either [answer the questionnaire anonymously online](https://forms.office.com/Pages/ResponsePage.aspx?id=w10PIlKU5UibT4iN9C96LQFp2vRb2O5BvORSKbwbEWFUNzJBN05NMEg4STdaUkdNMFhITldORU9MWS4u) or download a copy and score it yourself.
 
 * * *
 
