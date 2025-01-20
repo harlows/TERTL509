@@ -1,13 +1,13 @@
-## Improving Your Digital Literacy: Becoming a Digital Citizen
+## Improving Your Digital Literacy: Becoming a 21st Century Educator
 
-This paper is aimed at helping you develop your digital literacy in a range of areas in order to become a digital citizen.
+This paper is aimed at helping you develop your digital literacy in relation to your teaching practice.
 
 * * *
 
 ### Activity #4
 #### How digitally literate are you?
 
-> Why not take stock of where you are right now. How digitally literate are you, and do you know what that means?
+> Why not take stock of where you are right now. What are your key areas of digital competence?
 >
 > Download this model of the [digital literacy development framework](https://waikatouniversitynz-my.sharepoint.com/:w:/g/personal/stephen_harlow_waikato_ac_nz/EVsMiNUkCmBLheD510cQZNsBN9i8zM14FLQJT5u1t-_GzQ?e=6B1lKb) and complete it while thinking about your access, skills, practices and identities. This will help you take stock of where you are now and help you focus on where you want to develop.
 
