@@ -17,6 +17,20 @@ It is important to pause and note that the term literacy has always held a degre
 
 Much of what you find in your search will probably suggest a relationship between literacy and words. This may be attributed to the fact that the concept has traditionally been associated with language—i.e., alphabetic literacy. In popular use, the word literacy has increasingly become a synonym for skill, competence, and proficiency—for example, emotional literacy and spiritual literacy, etc.
 
+To better understand Digital Literacy, it is helpful to clarify the relationship between literacy, competence, and skills. While these terms are interconnected, they reflect different layers of capability and application.
+
+**Literacy** is the broadest concept, referring to the foundational ability to understand, interpret, and produce information within a specific context. That information may be in the form of written text, music, art, or any other way of encoding. Literacy serves as the basis for developing competencies and skills.
+
+**Competence** is a subset of literacy, representing a specific set of skills and contextual understanding to apply knowledge effectively in real-world scenarios. Competence is dynamic, requiring not only technical ability but also judgment, communication, and problem-solving.
+
+**Skills** are the most specific and practical element, representing the very specific technical abilities or techniques used to perform tasks. While skills are essential teachable components, they gain significance when practiced within the broader context of competence and guided by the framework provided by literacy.
+
+![](images/Digital-skills-competence-and-literacy-concepts.png)
+
+In summary, literacy is the overarching framework that enables individuals to develop competencies, which in turn depend on specific skills.
+
+* * *
+
 Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
 
 * * *
