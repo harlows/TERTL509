@@ -31,6 +31,31 @@ In summary, literacy is the overarching framework that enables individuals to de
 
 * * *
 
+### Activity
+
+> Have a think about the activities you undertake in your everyday life. Pick one, and think about it in terms of literacy, competencies and skills. What do these things look like in that context? For example, you might be an aspiring guitar player. 
+
+| Aspect | Example | Behavioral Indicator |
+|:---:|:---:|:---:|
+| Skill | Playing a basic chord (e.g., G major) |
+| Competency | Switching between chords smoothly in a song |
+| Literacy | Understanding music theory and applying it to guitar playing |
+
+Now that you've identified literacy, competency, and skill in an everyday activity, let’s consider how we recognise these in practice.
+A **behavioural indicator** is an observable action that demonstrates someone’s level of literacy, competency, or skill. In education, we often assess learning by looking at these indicators.
+
+Thinking about the activity you examined in the earlier activity, identify at least one behavioural indicator for each level. For example, in the context of playing the guitar:
+
+| Aspect | Example | Behavioral Indicator |
+|:---:|:---:|:---:|
+| Skill | Playing a basic chord (e.g., G major) | Fingers are placed correctly, the chord rings out cleanly |
+| Competency | Switching between chords smoothly in a song | Transitions between chords are fluid and in time with the beat |
+| Literacy | Understanding music theory and applying it to guitar playing | Can improvise over a chord progression, transposes a song to a different key |
+
+So I might consider myself somewhat competent, but not really a highly literate guitarist.
+
+* * *
+
 Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
 
 * * *
