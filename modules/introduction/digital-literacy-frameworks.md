@@ -4,11 +4,10 @@ While a definition remains somewhat contested, our understanding of digital lite
 
 <!-- ![The number of frameworks](images/DQ-FrameworkMapping.jpg) -->
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2018 1675">
-  <image width="2018" height="1675" xlink:href="images/DQ-FrameworkMapping.jpg"></image> <a xlink:href="https://digitalliteracy.bccampus.ca/">
-    <rect x="1301" y="190" fill="#fff" opacity="0" width="262" height="112"></rect>
-  </a>
-</svg>
+<p style="position: relative;">
+<img src="images/DQ-FrameworkMapping.jpg">
+<a style="position: absolute; top: 10%; left: 10%; width: 30%; height: 15%" href="https://digitalliteracy.bccampus.ca/">
+</p>
 
 ©2019 DQ Institute (Used with permission)
 
