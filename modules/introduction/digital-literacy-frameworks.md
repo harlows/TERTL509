@@ -3,10 +3,13 @@
 While a definition remains somewhat contested, our understanding of digital literacy as a concept has been closely associated with the development of supporting frameworks. In the last quarter of a century there has been a plethora of frameworks developed. Some of the better known frameworks are mapped below.
 
 <!-- ![The number of frameworks](images/DQ-FrameworkMapping.jpg) -->
-<p style="position: relative;">
-<img src="images/DQ-FrameworkMapping.jpg">
-<a style="position: absolute; top: 10%; left: 10%; width: 30%; height: 15%" href="https://digitalliteracy.bccampus.ca/">
-</p>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2018 1675">
+  <image width="2018" height="1675" xlink:href="images/DQ-FrameworkMapping.jpg"></image> <a xlink:href="https://digitalliteracy.bccampus.ca/">
+    <rect x="1301" y="190" fill="#fff" opacity="0" width="262" height="112"></rect>
+  </a>
+</svg>
+
 ©2019 DQ Institute (Used with permission)
 
 UNESCO has developed a [Digital Competence Framework database](https://unevoc.unesco.org/home/Digital+Competence+Frameworks/) which lists 38 frameworks. While the majority have an education focus, none have been developed specifically for the higher education context.
