@@ -2,12 +2,7 @@
 
 While a definition remains somewhat contested, our understanding of digital literacy as a concept has been closely associated with the development of supporting frameworks. In the last quarter of a century there has been a plethora of frameworks developed. Some of the better known frameworks are mapped below.
 
-<!-- ![The number of frameworks](images/DQ-FrameworkMapping.jpg) -->
-
-<p style="position: relative;">
-<img src="images/DQ-FrameworkMapping.jpg">
-<a style="position: absolute; top: 10%; left: 10%; width: 30%; height: 15%" href="https://digitalliteracy.bccampus.ca/">
-</p>
+![The number of frameworks](images/DQ-FrameworkMapping.jpg)
 
 ©2019 DQ Institute (Used with permission)
 
