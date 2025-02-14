@@ -1,5 +1,10 @@
 ## What is Digital Literacy?
 
+<iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3703665%2Fmod_h5pactivity%2Fpackage%2F0%2FDigital%2520Literacy%2520Timeline.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="625"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="67aeb2f85ddd167aeb2f85ddd71-h5player">
+</iframe><script src="https://elearn.waikato.ac.nz/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
+
 ### The Concept of Literacy
 
 Let’s first start with “What is literacy?” Dictionaries define literacy as the ability to read and write. Within education, literacy is understood as the ability to read, write, and use arithmetic; the emphasis is on proficiency with language and numeracy.
