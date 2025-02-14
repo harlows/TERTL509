@@ -6,11 +6,6 @@ So what is digital? When you thought about your digital self in [Activity 1](you
 
 ### Digital Literacy
 
-<iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3703665%2Fmod_h5pactivity%2Fpackage%2F0%2FDigital%2520Literacy%2520Timeline.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="625"
-   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
-   style="height: 0px;" id="67aeb2f85ddd167aeb2f85ddd71-h5player">
-</iframe><script src="https://elearn.waikato.ac.nz/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
-
 Since the [pioneering introduction of computers into education in the 1960s](https://thejournal.com/Articles/1997/06/01/Computers-in-Education-A-Brief-History.aspx), four key concepts that have dominated the literature on literacies related to digital technology include: information literacy, media literacy, computer literacy, and digital literacy (Brown, Czerniewicz, Huang & Mayisela, 2016). These four literacies are not competing, but in fact are necessary components of what it means to be literate in the twenty-first century. The table below presents an outline of the different terms and how they intersect:
 
 |  | Information Literacy | Media Literacy | Computer Literacy | Digital Literacy |
@@ -20,7 +15,12 @@ Since the [pioneering introduction of computers into education in the 1960s](htt
 
 Table 1: Summary of Key Concepts (adapted from Brown et al., 2016, CC-BY-SA)
 
-The concept of digital literacy only started to gain attention in the last decade. Initially digital literacy was viewed primarily as the functional skills and competencies that people needed in order to use computers and the Internet. However in the last decade this has been expanded to consider the broader capacity needed to participate in a digital environment. UNESCO (2011) views digital literacy as a life skill that not only increases employability, but serves as a catalyst that “enables the acquisition of other important life skills” (p. 1).
+<iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3703665%2Fmod_h5pactivity%2Fpackage%2F0%2FDigital%2520Literacy%2520Timeline.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="625"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="67aeb2f85ddd167aeb2f85ddd71-h5player">
+</iframe><script src="https://elearn.waikato.ac.nz/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
+
+As you see from the timeline, the concept of digital literacy only started to gain attention in the last two decades. Initially digital literacy was viewed primarily as the functional skills and competencies that people needed in order to use computers and the Internet. However in the last decade this has been expanded to consider the broader capacity needed to participate in a digital environment. UNESCO (2011) views digital literacy as a life skill that not only increases employability, but serves as a catalyst that “enables the acquisition of other important life skills” (p. 1).
 
 The view of digital literacy offered by Jisc (2015) is even more comprehensive, defining digital literacy as “the capabilities which fit someone for living, learning and working in a digital society” (para. 3).  The [capabilities outlined by Jisc](https://digitalcapability.jiscinvolve.org/wp/files/2015/06/1.-Digital-capabilities-6-elements.pdf):
 
@@ -32,6 +32,11 @@ The view of digital literacy offered by Jisc (2015) is even more comprehensive, 
 (JISC, 2015)
 
 Beyond functional and critical skills, the definitions and digital capabilities identified here propose a particular mindset, a way of being. In particular, the last three capabilities outlined—the abilities to engage in participatory culture, to be a lifelong learner, and to manage a professional digital identity—render digital literacy remarkably different from the initial views of digital literacy simply as mastery of technical skills.
+
+### Activity
+#### Can you spare some time?
+
+> The timeline above is far from complete. Help us complete the collaborative timeline by contributing a digital literacy milestone.
 
 ### A condition, not a threshold
 
