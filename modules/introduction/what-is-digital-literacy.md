@@ -36,7 +36,7 @@ In summary, literacy is the overarching framework that enables individuals to de
 > Have a think about the activities you undertake in your everyday life. Pick one, and think about it in terms of literacy, competencies and skills. What do these things look like in that context? For example, you might be an aspiring guitar player. 
 
 | Aspect | Example |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | Skill | Playing a basic chord (e.g., G major) |
 | Competency | Switching between chords smoothly in a song |
 | Literacy | Understanding music theory and applying it to guitar playing |
@@ -92,4 +92,4 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 
 ### A condition, not a threshold
 
-Another important concept to understand when talking about digital literacies is that their aquisition is an ongoing process and dependent on context. Maintaining your digital literacy requires constant adaptation to the ever-changing digital landscape.
+Another important concept to understand when talking about digital literacies is that their aquisition is an ongoing process. Maintaining your digital literacy requires constant adaptation to the ever-changing digital landscape.
