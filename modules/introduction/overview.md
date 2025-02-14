@@ -7,5 +7,4 @@ In this module, you will be introduced to the concept of digital literacy and wh
 * Compare the different ways digital literacy has been referred to by scholars
 * Examine how digital literacy differs between people based on the context in which they live and learn and the way they use technology
 * Use a basic framework to assess your own digital literacy
-* Reflect on your digital footprint
-* Develop strategies to control your own digital identity
+* Reflect on your digital literacy
