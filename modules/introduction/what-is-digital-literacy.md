@@ -35,7 +35,7 @@ In summary, literacy is the overarching framework that enables individuals to de
 
 > Have a think about the activities you undertake in your everyday life. Pick one, and think about it in terms of literacy, competencies and skills. What do these things look like in that context? For example, you might be an aspiring guitar player. 
 
-| Aspect | Example | Behavioral Indicator |
+| Aspect | Example |
 |:---:|:---:|:---:|
 | Skill | Playing a basic chord (e.g., G major) |
 | Competency | Switching between chords smoothly in a song |
@@ -52,7 +52,7 @@ Thinking about the activity you examined in the earlier activity, identify at le
 | Competency | Switching between chords smoothly in a song | Transitions between chords are fluid and in time with the beat |
 | Literacy | Understanding music theory and applying it to guitar playing | Can improvise over a chord progression, transposes a song to a different key |
 
-So I might consider myself somewhat competent, but not really a highly literate guitarist.
+So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context.
 
 * * *
 
@@ -89,3 +89,7 @@ The view of digital literacy offered by Jisc (2015) is even more comprehensive, 
 (JISC, 2015)
 
 Beyond functional and critical skills, the definitions and digital capabilities identified here propose a particular mindset, a way of being. In particular, the last three capabilities outlined—the abilities to engage in participatory culture, to be a lifelong learner, and to manage a professional digital identity—render digital literacy remarkably different from the initial views of digital literacy simply as mastery of technical skills.
+
+### A condition, not a threshold
+
+Another important concept to understand when talking about digital literacies is that their aquisition is an ongoing process and dependent on context. Maintaining your digital literacy requires constant adaptation to the ever-changing digital landscape.

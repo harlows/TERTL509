@@ -1,6 +1,6 @@
 ## Improving Your Digital Literacy: Becoming a 21st Century Educator
 
-This paper is aimed at helping you develop your digital literacy in relation to your teaching practice.
+In today’s rapidly evolving digital world, teaching goes beyond delivering content—it’s about engaging students, fostering critical thinking, and preparing them for a digitally connected future. This paper equips you with the confidence, skills, and strategies to enhance your teaching, support student learning, and navigate the digital landscape effectively.
 
 * * *
 
