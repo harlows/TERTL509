@@ -2,7 +2,11 @@
 
 While a definition remains somewhat contested, our understanding of digital literacy as a concept has been closely associated with the development of supporting frameworks. In the last quarter of a century there has been a plethora of frameworks developed. Some of the better known frameworks are mapped below.
 
-![The number of frameworks](images/DQ-FrameworkMapping.jpg)
+<!-- ![The number of frameworks](images/DQ-FrameworkMapping.jpg) -->
+<iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3703520%2Fmod_h5pactivity%2Fpackage%2F0%2FDigital%2520Literacy%2520Map.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="1288"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="67aeae43a800467aeae43a80081-h5player">
+</iframe><script src="https://elearn.waikato.ac.nz/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
 
 ©2019 DQ Institute (Used with permission)
 
@@ -23,6 +27,8 @@ Doug Belshaw took a different approach, acknowledging the ambiguity and context 
 6. Creative 
 7. Critical 
 8. Civic
+
+While Belshaw's model has significantly contributed to the discourse on digital literacy, its elements are not explicitly referenced in major institutional frameworks.
 
 * * *
 
@@ -47,6 +53,7 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 #### Frameworks in the wild
 
 > The University of Waikato's Graduate Attributes outline the competencies that graduates are expected to develop during their studies. Papers taught at the University are designed to offer students the opportunity to develop these competencies. These are either explicitly integrated throughout the curriculum or taught as stand-alone “Disciplinary Foundations” papers.
-> Looking specifically at the second dimension, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
+>
+> Looking specifically at the second dimension of the HeDiCom framework, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
 > Familiarise yourself with the behavioural indicators for the Empowering students for a digital society dimension. Which indicators provide good matches with the corresponding Graduate Attributes?
 > Which indicators would you be best placed to assess in your paper?
