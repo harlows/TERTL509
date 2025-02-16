@@ -6,7 +6,7 @@ As digital technology has become more common, affordable, and portable, more and
 
 Digital literacy is a relatively new concept that emerged in the 1990s during the era of the Internet revolution. Before that, people talked more about “computer literacy.” But in 1997, Paul Gilster, a historian and educator first coined the term “digital literacy,” arguing that digital literacy went beyond just skills in using technology. He said it is about
 
-> <div style="text-align: center">“mastering ideas, not [computer] keystrokes”<div>
+> <div style="text-align: center">“mastering ideas, not [computer] keystrokes”</div>
 > <div style="text-align: right">(Gilster, 1997, p. 1).</div>
 
 Gilster (1997) further defined digital literacy as “the ability to understand and use information in multiple formats from a wide range of sources when it is presented via computers” (p. 1). For him, digital literacy involves the ability to critically evaluate information (presented in different formats) and make decisions about how to use this information in different real-life contexts.
