@@ -24,6 +24,8 @@ However, the digital native metaphor oversimplifies the relationship between age
 
 Digital literacies are not innate; they require intentional learning. As living, learning, and working increasingly move online, educators play a critical role in developing students’ digital competencies—from evaluating online information to engaging in professional and academic digital spaces.
 
+* * *
+
 ### A More Nuanced Model: Visitors and Residents
 
 Rather than linking digital skills to age, David White and Alison Le Cornu offer a more nuanced model based on motivation and context. Their Visitors and Residents continuum describes two modes of online engagement:
