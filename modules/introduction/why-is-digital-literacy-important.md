@@ -1,5 +1,6 @@
 ## Why is Digital Literacy Important?
 
+As you watch the following video, reflect on why digital literacy matters to you.
 
   <div class="video-container-16by9">
     <iframe
@@ -34,7 +35,16 @@ People often shift between these modes based on context and motivation. Therefor
 
 Understanding models like Visitors & Residents will help you reflect on how you—and your students—engage in online spaces.
 
+  <div class="video-container-16by9">
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/MSK1Iw1XtwQ?si=A4Y7Isj37IzqcN6y"></iframe>
+  </div>
+
 * * *
+
+![Visitors and residents map](images/800px-A_Visitors_&_Residents_map_of_online_engagement.jpg)
 
 ### Activity #3
 #### Generational View of Digital Natives
