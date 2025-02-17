@@ -5,8 +5,15 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/cf4DZiw6r9E?si=SYRVk4bjPZHjwHFK"></iframe>
+      src="https://www.youtube.com/embed/p2k3C-iB88w?si=IX3YuU17WCThGj2A&amp;controls=0"></iframe>
   </div>
+
+* * *
+
+### Activity
+#### Discussion
+
+> Why does digital literacy matter to you?
 
 * * *
 
