@@ -1,13 +1,13 @@
 ## Why is Digital Literacy Important?
 
-<div class="video-container-4by3">
+
   <div class="video-container-16by9">
     <iframe
       width="560"
       height="315"
       src="https://www.youtube.com/watch?v=p2k3C-iB88w"></iframe>
   </div>
-</div>
+
 
 
 You might be familiar with the concept of a “digital native” or the “net generation.” These terms suggest that a person who has been born or brought up during the age of digital technology will be familiar with computers and the Internet from an early age.
