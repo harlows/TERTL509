@@ -1,15 +1,31 @@
 ## Why is Digital Literacy Important?
 
-You might be familiar with the concept of a “digital native” or the “net generation.” These terms refer to the idea that a person who has been born or brought up during the age of digital technology will be familiar with computers and the Internet from an early age.
+<div class="video-container-4by3">
+  <div class="video-container-16by9">
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/watch?v=p2k3C-iB88w"></iframe>
+  </div>
+</div>
 
-The digital native metaphor oversimplifies the relationship between age and technology, reinforcing stereotypes like “old people just don't get tech.” It also wrongly assumes younger generations inherently know how to use technology effectively for tasks like studying or critical thinking. These digital literacies require intentional learning and are vital as living, learning and working increasingly move online.
 
-David White and Alison Le Cornu offer a more nuanced model based on motivation rather than age or technical skill. Their Visitors and Residents continuum describes two modes of online engagement:
+You might be familiar with the concept of a “digital native” or the “net generation.” These terms suggest that a person who has been born or brought up during the age of digital technology will be familiar with computers and the Internet from an early age.
+
+However, the digital native metaphor oversimplifies the relationship between age and technology, reinforcing stereotypes like “old people just don't get tech.” It also wrongly assumes younger generations inherently know how to use technology effectively for tasks like studying or critical thinking.
+
+Digital literacies are not innate; they require intentional learning. As living, learning, and working increasingly move online, educators play a critical role in developing students’ digital competencies—from evaluating online information to engaging in professional and academic digital spaces.
+
+### A More Nuanced Model: Visitors and Residents
+
+Rather than linking digital skills to age, David White and Alison Le Cornu offer a more nuanced model based on motivation and context. Their Visitors and Residents continuum describes two modes of online engagement:
 
 - **Visitors** use the web for specific tasks without leaving a social trace (e.g., online banking).
-- **Residents** view the web as a place to interact with others, expressing their digital identity and leaving a social footprint (e.g., posting on Facebook).
+- **Residents** view the web as a place to interact with others, expressing their digital identity and leaving a social footprint (e.g., posting on social media).
 
 People often shift between these modes based on context and motivation. Therefore, the model distinguishes between personal and institutional or professional online engagement. In practice, much activity falls in the middle of the continuum, within ‘closed’ groups or communities.
+
+Understanding models like Visitors & Residents will help you reflect on how you—and your students—engage in online spaces.
 
 * * *
 
