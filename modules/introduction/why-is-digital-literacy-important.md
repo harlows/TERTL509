@@ -5,7 +5,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://youtu.be/p2k3C-iB88w?si=XLShfc_ABErVMv2w"></iframe>
+      src="https://www.youtube.com/embed/p2k3C-iB88w?si=XLShfc_ABErVMv2w"></iframe>
   </div>
 
 * * *
