@@ -25,7 +25,7 @@ To better understand Digital Literacy, it is helpful to clarify the relationship
 
 **Skills** are the most specific and practical element, representing the very specific technical abilities or techniques used to perform tasks. While skills are essential teachable components, they gain significance when practiced within the broader context of competence and guided by the framework provided by literacy.
 
-![](images/Digital-skills-competence-and-literacy-concepts.png)
+![](images/Digital-skills-competence-and-literacy-concepts.png ":class=image-50")
 
 In summary, literacy is the overarching framework that enables individuals to develop competencies, which in turn depend on specific skills.
 
