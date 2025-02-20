@@ -41,6 +41,8 @@ In summary, literacy is the overarching framework that enables individuals to de
 | Competency | Switching between chords smoothly in a song |
 | Literacy | Understanding music theory and applying it to guitar playing |
 
+* * *
+
 Now that you've identified literacy, competency, and skill in an everyday activity, let’s consider how we recognise these in practice.
 A **behavioural indicator** is an observable action that demonstrates someone’s level of literacy, competency, or skill. In education, we often assess learning by looking at these indicators.
 
@@ -52,10 +54,16 @@ Thinking about the activity you examined in the earlier activity, identify at le
 | Competency | Switching between chords smoothly in a song | Transitions between chords are fluid and in time with the beat |
 | Literacy | Understanding music theory and applying it to guitar playing | Can improvise over a chord progression, transposes a song to a different key |
 
-So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context.
+So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context. As we'll see later, context is also important when talking about digital literacies.
 
 * * *
 
 Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
 
 * * *
+
+### Activity
+#### Tell us your story
+
+> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the writer came to understand the importance of technology in their life or pedagogy. More often, they are simply narratives that use a medium beyond the print-based essay to tell the story.
+> Create your own literacy narrative that tells of a significant experience you had with digital literacy. Use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the Digital Archive of Literacy Narratives.

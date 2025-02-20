@@ -48,6 +48,15 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 
 ![Visitors and residents map](images/800px-A_Visitors_&_Residents_map_of_online_engagement.jpg)
 
+* * *
+
+### Activity
+#### Mapping
+
+> Download the Visitors & Residents template and have a go at mapping your own digital practices. Take a look at some examples to help you get started.
+
+* * *
+
 ### Activity #3
 #### Generational View of Digital Natives
 
