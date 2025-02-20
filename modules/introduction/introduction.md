@@ -12,3 +12,14 @@ Digital literacy is a relatively new concept that emerged in the 1990s during th
 Gilster (1997) further defined digital literacy as “the ability to understand and use information in multiple formats from a wide range of sources when it is presented via computers” ([p. 1](https://archive.org/details/digitalliteracy0000gils/page/n13/mode/2up)). For him, digital literacy involves the ability to critically evaluate information (presented in different formats) and make decisions about how to use this information in different real-life contexts.
 
 By the end of this paper you will be able to define the concept of digital literacy and its many different components, reflect on your own digital literacy, engage with the digital world responsibly, and be empowered as a 21st century educator capable of helping others learn and develop their role in the digital world.
+
+* * *
+
+### Activity
+#### Collaborative Reading List
+
+> As part of this paper, we’re building a crowdsourced digital library of digital literacy resources. It will encourage the curation skills you will build on in a later module and create a living resource beyond the life of this paper.
+> 
+> - Bookmark at least one digital literacy resource.
+> - Write a brief note explaining why you think the resource is valuable.
+> - Tag it with appropriate keywords to increase its discoverability.
