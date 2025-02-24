@@ -53,6 +53,16 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 * * *
 
 ### Activity
+#### Hypothes.ising HeDiCom
+
+> Hypothes.is is a great way of annotating the web
+> Read the paper and as you read, highlight and comment on things that resonate with you. For example:
+> Can you find an example from your own teaching experience that aligns with a particular HeDiCom competency? Annotate a relevant section and share a short anecdote or reflection. Don’t forget to tag it TERTL509!
+> As you annotate, you’re creating a footprint for other students that complete the paper.
+
+* * *
+
+### Activity
 #### Frameworks in the wild
 
 > The University of Waikato's Graduate Attributes outline the competencies that graduates are expected to develop during their studies. Papers taught at the University are designed to offer students the opportunity to develop these competencies. These are either explicitly integrated throughout the curriculum or taught as stand-alone “Disciplinary Foundations” papers.
