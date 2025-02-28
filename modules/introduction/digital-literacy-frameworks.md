@@ -48,7 +48,9 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 
 "[The HeDiCom framework](https://link.springer.com/article/10.1007/s11423-023-10193-5/figures/1)" by [Tondeur et al. (2023)](https://rdcu.be/d76Oc) [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-[A set of behavioural indicators](https://www.ixperium.nl/onderzoeken-en-ontwikkelen/publicaties/behavioural-indicators-for-teaching-and-learning-with-technology-in-higher-education-complementary-to-the-framework-for-digital-competences-of-lecturers-acceleration-plan/) has also been developed to provide practical examples of the framework competencies. These describe examples of observable actions that competent lecturers might display.
+[A set of behavioural indicators](https://www.ixperium.nl/onderzoeken-en-ontwikkelen/publicaties/behavioural-indicators-for-teaching-and-learning-with-technology-in-higher-education-complementary-to-the-framework-for-digital-competences-of-lecturers-acceleration-plan/) has also been developed to provide practical examples of the framework competencies. These describe examples of observable actions that digitally competent lecturers might display.
+
+> You'll become familiar with them because we'll be asking you to reflect on the appropriate competencies and behavioural indicators as you progress through the paper.
 
 * * *
 
