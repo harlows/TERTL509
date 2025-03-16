@@ -70,4 +70,4 @@ Whatever your view of the word literacy, what is less questioned is the relation
 >
 > Visit the Tell us your story activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")

@@ -64,7 +64,7 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 >
 > Visit the Hypothes.ising HeDiCom activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
 
@@ -79,4 +79,4 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 >
 > Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")

@@ -13,7 +13,7 @@ As you watch the following video, reflect on why digital literacy matters to you
 
 > Why does digital literacy matter to you? Share your thoughts with the Community!
 
-[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/":class=button")
+[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
 
@@ -56,7 +56,7 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 >
 > Visit the Visitors and Residents activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 
 * * *
 

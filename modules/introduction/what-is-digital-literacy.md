@@ -44,7 +44,7 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 >
 > Visit the Personal Technology Timeline activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 
 * * *
 

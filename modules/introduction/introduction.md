@@ -26,4 +26,4 @@ By the end of this paper you will be able to define the concept of digital liter
 >
 > Visit the Collaborative Reading List activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
+[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
