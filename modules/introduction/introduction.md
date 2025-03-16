@@ -23,3 +23,7 @@ By the end of this paper you will be able to define the concept of digital liter
 > - Bookmark at least one digital literacy resource.
 > - Write a brief note explaining why you think the resource is valuable.
 > - Tag it with appropriate keywords to increase its discoverability.
+>
+> Visit the Collaborative Reading List activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")

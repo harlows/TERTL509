@@ -11,10 +11,9 @@ As you watch the following video, reflect on why digital literacy matters to you
 
 * * *
 
-### Activity
-#### Discussion
+> Why does digital literacy matter to you? Share your thoughts with the Community!
 
-> Why does digital literacy matter to you?
+[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/":class=button")
 
 * * *
 
@@ -54,6 +53,10 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 #### Mapping
 
 > Download the Visitors & Residents template and have a go at mapping your own digital practices. Take a look at some examples to help you get started.
+>
+> Visit the Visitors and Residents activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
 
 * * *
 

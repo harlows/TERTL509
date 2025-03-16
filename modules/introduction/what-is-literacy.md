@@ -67,3 +67,7 @@ Whatever your view of the word literacy, what is less questioned is the relation
 
 > Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the writer came to understand the importance of technology in their life or pedagogy. More often, they are simply narratives that use a medium beyond the print-based essay to tell the story.
 > Create your own literacy narrative that tells of a significant experience you had with digital literacy. Use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the Digital Archive of Literacy Narratives.
+>
+> Visit the Tell us your story activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")

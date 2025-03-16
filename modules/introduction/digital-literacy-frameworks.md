@@ -61,6 +61,10 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 > Read the paper and as you read, highlight and comment on things that resonate with you. For example:
 > Can you find an example from your own teaching experience that aligns with a particular HeDiCom competency? Annotate a relevant section and share a short anecdote or reflection. Don’t forget to tag it TERTL509!
 > As you annotate, you’re creating a footprint for other students that complete the paper.
+>
+> Visit the Hypothes.ising HeDiCom activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
 
 * * *
 
@@ -72,3 +76,7 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 > Looking specifically at the second dimension of the HeDiCom framework, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
 > Familiarise yourself with the behavioural indicators for the Empowering students for a digital society dimension. Which indicators provide good matches with the corresponding Graduate Attributes?
 > Which indicators would you be best placed to assess in your paper?
+>
+> Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")

@@ -38,9 +38,13 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 * * *
 
 ### Activity
-#### Can you spare some time?
+#### Personal Technology Timeline
 
 > The timeline above is far from complete. Help us complete the collaborative timeline by contributing a digital literacy milestone.
+>
+> Visit the Personal Technology Timeline activity for full instructions and Activity Bank submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/":class=button")
 
 * * *
 
