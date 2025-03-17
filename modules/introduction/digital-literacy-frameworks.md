@@ -1,6 +1,6 @@
 ## Digital Literacy Frameworks
 
-While a definition remains somewhat contested, our understanding of digital literacy as a concept has been closely associated with the development of supporting frameworks. In the last quarter of a century there has been a plethora of frameworks developed. Some of the better known frameworks are mapped below. The diagram shows that, while there are many frameworks, they are interrelated and share some common underlying competencies. These interconnections underscore the importance of developing a well-rounded set of digital skills to navigate the digital world safely, responsibly, and effectively.
+Although the definition of digital literacy is still debated, our understanding of the concept has been significantly shaped by the development of various supporting frameworks. Over the past 25 years, numerous frameworks have emerged. The diagram below maps some of the more well-known frameworks, illustrating that despite their diversity, they share common underlying competencies. These interconnections underscore the importance of developing a well-rounded set of digital skills to navigate the digital world safely, responsibly, and effectively.
 
 <!-- ![The number of frameworks](images/DQ-FrameworkMapping.jpg) -->
 <iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3703520%2Fmod_h5pactivity%2Fpackage%2F0%2FDigital%2520Literacy%2520Map.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="1288"
@@ -10,13 +10,13 @@ While a definition remains somewhat contested, our understanding of digital lite
 
 ©2019 DQ Institute (Used with permission)
 
-UNESCO has developed a [Digital Competence Framework database](https://unevoc.unesco.org/home/Digital+Competence+Frameworks/) which contains 38 frameworks. While the majority have an education focus, none have been developed specifically for the higher education context.
+UNESCO has developed a [Digital Competence Framework database](https://unevoc.unesco.org/home/Digital+Competence+Frameworks/) which categorises 38 frameworks into 11 distinct target groups. While most frameworks focus on education, none have been specifically developed for the higher education context.
 
 * * *
 
 ### Context is King
 
-Digital literacies vary significantly based on context. The UNESCO database categorises 38 frameworks into 11 distinct target groups. For instance, the digital skills and competencies required by a primary school teacher differ from those needed by a healthcare worker. To address this, frameworks have been developed that are aimed at these sectors, but usually these are adaptions of existing frameworks. For example, Education Scotland has developed a framework for school teachers based on the DigComp2 framework, and the UK's National Health Service developed a Health and Care Digital Capabilities Framework influenced by JISC's Digital Capacity framework. In New Zealand, what work has been done is well summarised in the TEC's Scoping a Digital Skills Framework (2023).
+The diversity of target groups in the UNESCO database demonstrates that digital literacies vary significantly based on context. For instance, the digital skills and competencies required by a primary school teacher differ from those needed by a healthcare worker. To address this, frameworks have been developed that are aimed at these sectors, but usually these are adaptions of existing frameworks. For example, Education Scotland has developed a framework for school teachers based on the DigComp2 framework, and the UK's National Health Service developed a Health and Care Digital Capabilities Framework influenced by JISC's Digital Capacity framework. In New Zealand, what work has been done is well summarised in the TEC's Scoping a Digital Skills Framework (2023).
 
 Doug Belshaw took a different approach, acknowledging the ambiguity and context dependence of digital literacy. Rather than focusing on competencies, he listed eight essential elements that could be used as building blocks to start a conversation about defining digital literacy in any given context:
 
@@ -76,6 +76,7 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 > Looking specifically at the second dimension of the HeDiCom framework, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
 > Familiarise yourself with the behavioural indicators for the Empowering students for a digital society dimension. Which indicators provide good matches with the corresponding Graduate Attributes?
 > Which indicators would you be best placed to assess in your paper?
+> Do the Graduate Attributes align with Belshaw's eight elements?
 >
 > Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
 

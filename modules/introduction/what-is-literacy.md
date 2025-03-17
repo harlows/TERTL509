@@ -71,3 +71,13 @@ Whatever your view of the word literacy, what is less questioned is the relation
 > Visit the Tell us your story activity for full instructions and Activity Bank submission link.
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+
+* * *
+
+Another way of visualizing this is Sharpe and Beetham’s (2010) [digital literacy development model](https://www.jisc.ac.uk/full-guide/developing-digital-literacies).
+
+![Beetham and Sharpe ‘pyramid model’ of digital literacy development model (2010)](images/beetham-sharpe.png)
+
+Sharpe and Beetham’s ‘pyramid model’ of digital literacy development model (2010). Reproduced with permission of the authors.
+
+The pyramid represents a cyclical process for developing digital literacy skills. At the base of the pyramid is awareness of technology and access to it. However, just because you have a piece of hardware or software doesn’t mean you have the ability to use it effectively. As you spend more time using technology, you become more confident in your technical, information, communication, and learning skills. You can then begin to apply those skills to make informed decisions and choices about how to use different technologies. As you move through the cycle, your experiences and practices contribute to the formation of your digital identity, while your identity informs your practices and drives the creative and appropriate use of technology.
