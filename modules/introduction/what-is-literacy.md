@@ -21,7 +21,7 @@ To better understand Digital Literacy, it is helpful to clarify the relationship
 
 **Literacy** is the broadest concept, referring to the foundational ability to understand, interpret, and produce information within a specific context. That information may be in the form of written text, music, art, or any other way of encoding. Literacy serves as the basis for developing competencies and skills.
 
-**Competence** is a subset of literacy, representing a specific set of skills and contextual understanding to apply knowledge effectively in real-world scenarios. Competence is dynamic, requiring not only technical ability but also judgment, communication, and problem-solving.
+**Competence** is a subset of literacy, representing a specific set of skills and contextual understanding to apply knowledge effectively in real-world scenarios. Competence is dynamic, requiring not only technical ability but also judgement, communication, and problem-solving.
 
 **Skills** are the most specific and practical element, representing the very specific technical abilities or techniques used to perform tasks. While skills are essential teachable components, they gain significance when practiced within the broader context of competence and guided by the framework provided by literacy.
 
@@ -56,7 +56,7 @@ Thinking about the activity you examined in the earlier activity, identify at le
 
 So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context. As we'll see later, context is also important when talking about digital literacies.
 
-Another way of visualising this is Sharpe and Beetham’s (2010) [digital literacy development model](https://web.archive.org/web/20220120065520/https://www.jisc.ac.uk/full-guide/developing-digital-literacies).
+Another way of visualising this is Sharpe and Beetham’s (2010) [digital literacy development model](https://web.archive.org/web/20220120065520/https://www.jisc.ac.uk/full-guide/developing-digital-literacies). In this model, you can think of practices as the actions taken that are enabled by competencies.
 
 ![Beetham and Sharpe ‘pyramid model’ of digital literacy development model (2010)](images/beetham-sharpe.png)
 
