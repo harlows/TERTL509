@@ -15,7 +15,7 @@ By the end of this paper you will be able to define the concept of digital liter
 
 * * *
 
-### Activity
+### Activity #1
 #### Collaborative Reading List
 
 > As part of this paper, we’re building a crowdsourced digital library of digital literacy resources. It will encourage the curation skills you will build on in a later module and create a living resource beyond the life of this paper.
@@ -26,4 +26,4 @@ By the end of this paper you will be able to define the concept of digital liter
 >
 > Visit the Collaborative Reading List activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
