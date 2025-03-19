@@ -1,6 +1,6 @@
 ## The Concept of Digital
 
-So what is digital? When you thought about your digital self in [Activity 1](your-digital-self.md), you probably thought about the digital tools and technologies that are available to you. For example: “Oh, I use text messaging on my cell phone to communicate with friends.” Or: “I use email at university on my laptop or in the computer lab to communicate with faculty.” But the digital part (just like literacy) depends on context. The technology that you use and may even take for granted is not the same technology that your grandparents use or that students in another country use. This is why the concept of digital literacy is more often now referred to as digital literacies as a plural, acknowledging the variability of what is both available and relevant.
+So what is digital? If you thought about a defining digital moment in your personal or professional life in [Activity #3](what-is-literacy.md#activity-3), you probably thought about the digital tools and technologies that are available to you. For example, the first time you used a cell phone, or the first time you saw a computer. But the digital part (just like literacy) depends on context. The technology that you use and may even take for granted is not the same technology that your grandparents use or that students in another country use. This is why the concept of digital literacy is more often now referred to as digital literacies as a plural, acknowledging the variability of what is both available and relevant.
 
 * * *
 
@@ -37,14 +37,14 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 
 * * *
 
-### Activity
+### Activity #4
 #### Personal Technology Timeline
-
-> The timeline above is far from complete. Help us complete the collaborative timeline by contributing a digital literacy milestone.
+:fas fa-clock fa-fw: *Allow at least 60 minutes*
+> Timelines are a great way to show milestones and development over time.
 >
 > Visit the Personal Technology Timeline activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 
 * * *
 

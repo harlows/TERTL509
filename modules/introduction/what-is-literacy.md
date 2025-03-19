@@ -67,17 +67,17 @@ The pyramid represents a cyclical process for developing digital literacy skills
 
 * * *
 
-Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
-
-* * *
-
 ### Activity #3
 #### My (Digital) Literacy Story
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
-> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the writer came to understand the importance of technology in their life or pedagogy. More often, they are simply narratives that use a medium beyond the print-based essay to tell the story.
+> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. More often, they are simply narratives that use a medium beyond the print-based essay to tell the story.
 >
-> Create your own literacy narrative that tells of a significant experience you had with digital literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the <a href="https://www.thedaln.org/" target="_blank">Digital Archive of Literacy Narratives</a>.
+> Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the <a href="https://www.thedaln.org/" target="_blank">Digital Archive of Literacy Narratives</a>.
 >
-> Visit the Tell us your story activity for full instructions and Activity Bank submission link.
+> Visit the My (Digital) Story activity for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+
+* * *
+
+Whatever your view of the word literacy, what is less questioned is the relationship between literacy and technology. Until quite recently, literacy has, for the most part, been associated with print technology. The increasingly important role that digital technology has taken in shaping our world has led to another defining moment in the evolution of literacy.
