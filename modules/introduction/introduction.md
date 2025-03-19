@@ -16,7 +16,7 @@ By the end of this paper you will be able to define the concept of digital liter
 * * *
 
 ### Activity #1
-#### Bookmark this!
+#### Bookmark This!
 
 > As part of this paper, we’re building a crowdsourced digital library of digital literacy resources. It will encourage the curation skills you will build on in a later module and create a living resource beyond the life of this paper.
 > 
@@ -24,6 +24,6 @@ By the end of this paper you will be able to define the concept of digital liter
 > - Write a brief note explaining why you think the resource is valuable.
 > - Tag it with appropriate keywords to increase its discoverability.
 >
-> Visit the Collaborative Reading List activity for full instructions and Activity Bank submission link.
+> Visit the Bookmark This! activity for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")

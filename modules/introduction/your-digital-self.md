@@ -4,7 +4,7 @@ You probably already use a range of technologies and digital tools in different 
 
 * * *
 
-### Activity #1
+### Activity #2
 ### Emergency Rations
 :fas fa-clock fa-fw: *Allow about 20 minutes*
 > What is the technology you find yourself turning around and going home for if you forget it. What can't leave at home or work, what do you feel naked without? (in your bag, in your pocket, wearable, etc.)? What connects your personal and professional lives to the extent you need to alter your plans to return home or the office to ‘rescue’?
