@@ -17,7 +17,7 @@ By the end of this paper you will be able to define the concept of digital liter
 
 ### Activity #1
 #### Bookmark This!
-
+:fas fa-clock fa-fw: *Allow about 30 minutes*
 > As part of this paper, we’re building a crowdsourced digital library of digital literacy resources. It will encourage the curation skills you will build on in a later module and create a living resource beyond the life of this paper.
 > 
 > - Bookmark at least one digital literacy resource.

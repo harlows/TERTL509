@@ -70,7 +70,9 @@ The pyramid represents a cyclical process for developing digital literacy skills
 ### Activity #3
 #### My (Digital) Literacy Story
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
-> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. More often, they are simply narratives that use a medium beyond the print-based essay to tell the story.
+> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. However, they can also be understood as simply narratives that use a medium beyond the print-based essay to tell the story.
+>
+> <a href="https://www.thedaln.org/#/detail/2a492736-6ec8-46b0-b9b4-6b419ad4edd3" target="_blank">Mark C. Marino's digital literacy narrative</a> fits into both categories. While his <a href="https://writerresponsetheory.org/wordpress/" target="_blank">writerresponsetheory.org blog</a> is no longer current he still maintains an online presence at <a href="https://markcmarino.com/wordpress/" target="_blank">markcmarino.com</a>.
 >
 > Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the <a href="https://www.thedaln.org/" target="_blank">Digital Archive of Literacy Narratives</a>.
 >

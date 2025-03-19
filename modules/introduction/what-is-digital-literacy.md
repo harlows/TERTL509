@@ -40,7 +40,7 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 ### Activity #4
 #### Personal Technology Timeline
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
-> Timelines are a great way to show milestones and development over time.
+> Timelines are a great way to show milestones and development over time. When you were thinking about your (digital) literacy story you probably brainstormed the defining digital moments in your life: your first computer, your first internet connection, or when you joined a particular social media platform. In this activity you will present these digital milestones in a timeline format.
 >
 > Visit the Personal Technology Timeline activity for full instructions and Activity Bank submission link.
 
