@@ -4,20 +4,23 @@ In today’s rapidly evolving digital world, teaching goes beyond delivering con
 
 * * *
 
-### Activity #4
+### Activity #7
 #### Taking Stock: How digitally literate are you?
-
+:fas fa-clock fa-fw: *Allow about 15 minutes*
 > Why not take stock of where you are right now. What are your key areas of digital competence as a university teacher?
 >
 > Complete the Digital Competence Scale for University Teachers (DCS-UT) questionnaire while thinking about your use of digital tools, practises, and strategies for engaging students through technology. This will help you take stock of where you are now and help you focus on where you want to develop.
 >
 > You can either [answer the questionnaire anonymously online](https://forms.office.com/Pages/ResponsePage.aspx?id=w10PIlKU5UibT4iN9C96LQFp2vRb2O5BvORSKbwbEWFUNzJBN05NMEg4STdaUkdNMFhITldORU9MWS4u) or download a copy and score it yourself.
-
+>
 >
 > Visit the Taking Stock activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
 
 ### Set a goal
+
+> [Write a letter to your future self](https://www.futureme.org) asking if you have met the digital literacy goal you have set for yourself.</li>
+               

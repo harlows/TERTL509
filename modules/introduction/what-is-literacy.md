@@ -6,11 +6,7 @@ Let’s first start with “What is literacy?” Dictionaries define literacy as
 
 It is important to pause and note that the term literacy has always held a degree of status. Globally, countries are often ranked in terms of literacy rates, compared by what percent of the adult population can read and write, for example. There is more complexity to the terms literate or illiterate, however, and a lot depends on context. “New literacy studies” view literacy as a situated practice; as in it all depends on where you come from and what your purpose is.
 
-* * * 
-
 > Use a common search engine like Google and type the term “literacy” into the search bar. Select the option to view the results as images and scroll through the visual depictions of literacy. What do these images depict about the concept of literacy?
-
-* * *
 
 Much of what you find in your search will probably suggest a relationship between literacy and words. This may be attributed to the fact that the concept has traditionally been associated with language—i.e., alphabetic literacy. In popular use, the word literacy has increasingly become a synonym for skill, competence, and proficiency—for example, emotional literacy and spiritual literacy, etc.
 
@@ -55,6 +51,8 @@ A **behavioural indicator** is an observable action that demonstrates someone’
 
 So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context. As we'll see later, context is also important when talking about digital literacies.
 
+* * *
+
 ### Climbing the pyramid
 
 Another way of visualising this is Sharpe and Beetham’s (2010) [digital literacy development model](https://web.archive.org/web/20220120065520/https://www.jisc.ac.uk/full-guide/developing-digital-literacies). In this model, you can think of practices as the actions taken that are enabled by competencies.
@@ -72,7 +70,7 @@ The pyramid represents a cyclical process for developing digital literacy skills
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
 > Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. However, they can also be understood as simply narratives that use a medium beyond the print-based essay to tell the story.
 >
-> <a href="https://www.thedaln.org/#/detail/2a492736-6ec8-46b0-b9b4-6b419ad4edd3" target="_blank">Mark C. Marino's digital literacy narrative</a> fits into both categories. While his <a href="https://writerresponsetheory.org/wordpress/" target="_blank">writerresponsetheory.org blog</a> is no longer current he still maintains an online presence at <a href="https://markcmarino.com/wordpress/" target="_blank">markcmarino.com</a>.
+> <a href="https://www.thedaln.org/#/detail/2a492736-6ec8-46b0-b9b4-6b419ad4edd3" target="_blank">Mark C. Marino's digital literacy narrative</a> fits into both categories. While his <a href="https://writerresponsetheory.org/wordpress/" target="_blank">writerresponsetheory.org blog</a> is no longer current, he still maintains an online presence at <a href="https://markcmarino.com/wordpress/" target="_blank">markcmarino.com</a>.
 >
 > Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the <a href="https://www.thedaln.org/" target="_blank">Digital Archive of Literacy Narratives</a>.
 >

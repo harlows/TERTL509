@@ -16,6 +16,11 @@ As you watch the following video, reflect on why digital literacy matters to you
 [:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
+#### Generational View of Digital Natives
+
+> There are many cartoons online that comment on the amusing side of this concept. Do a search on Google (or your favourite search engine) for “digital native” a cartoon. You might see images of kids looking at a book with shock and asking each other, “Where is the ‘on’ button?” Or you might see a child returning home from school walking right past their parent exclaiming, “How do you think it was? They didn’t even have Wi-Fi!”
+
+* * *
 
 You might be familiar with the concept of a “digital native” or the “net generation.” These terms suggest that a person who has been born or brought up during the age of digital technology will be familiar with computers and the Internet from an early age.
 
@@ -53,18 +58,10 @@ Understanding models like Visitors & Residents will help you reflect on how you�
 
 ### Activity
 #### Mapping
-
+:fas fa-clock fa-fw: *Allow about 60 minutes*
 > Download the Visitors & Residents template and have a go at mapping your own digital practices. Take a look at some examples to help you get started.
 >
 > Visit the Visitors and Residents activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 
-* * *
-
-### Activity #3
-#### Generational View of Digital Natives
-
-> There are many cartoons online that comment on the amusing side of this concept. Do a search on Google (or your favourite search engine) for “digital native” a cartoon. You might see images of kids looking at a book with shock and asking each other, “Where is the ‘on’ button?” Or you might see a child returning home from school walking right past their parent exclaiming, “How do you think it was? They didn’t even have Wi-Fi!”
-
-* * *

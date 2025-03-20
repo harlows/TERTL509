@@ -56,7 +56,7 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 
 ### Activity
 #### Hypothes.ising HeDiCom
-
+:fas fa-clock fa-fw: *Allow about 30 minutes*
 > Hypothes.is is a great way of annotating the web
 > Read the paper and as you read, highlight and comment on things that resonate with you. For example:
 > Can you find an example from your own teaching experience that aligns with a particular HeDiCom competency? Annotate a relevant section and share a short anecdote or reflection. Don’t forget to tag it TERTL509!
@@ -64,13 +64,13 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 >
 > Visit the Hypothes.ising HeDiCom activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
 
 ### Activity
 #### Frameworks in the wild
-
+:fas fa-clock fa-fw: *Allow about 60 minutes*
 > The University of Waikato's Graduate Attributes outline the competencies that graduates are expected to develop during their studies. Papers taught at the University are designed to offer students the opportunity to develop these competencies. These are either explicitly integrated throughout the curriculum or taught as stand-alone “Disciplinary Foundations” papers.
 >
 > Looking specifically at the second dimension of the HeDiCom framework, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
@@ -80,4 +80,4 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 >
 > Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
