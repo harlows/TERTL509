@@ -54,29 +54,24 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 
 * * *
 
-### Activity
-#### Hypothes.ising HeDiCom
+### Activity #5
+#### Hypothes.ising
 :fas fa-clock fa-fw: *Allow about 30 minutes*
-> Hypothes.is is a great way of annotating the web
-> Read the paper and as you read, highlight and comment on things that resonate with you. For example:
-> Can you find an example from your own teaching experience that aligns with a particular HeDiCom competency? Annotate a relevant section and share a short anecdote or reflection. Don’t forget to tag it TERTL509!
-> As you annotate, you’re creating a footprint for other students that complete the paper.
+> [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
+> In this activity you will read the paper and as you read, highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
 >
-> Visit the Hypothes.ising HeDiCom activity for full instructions and Activity Bank submission link.
+> Visit the Hypothes.ising activity for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 
 * * *
 
-### Activity
+### Activity #6
 #### Frameworks in the wild
 :fas fa-clock fa-fw: *Allow about 60 minutes*
-> The University of Waikato's Graduate Attributes outline the competencies that graduates are expected to develop during their studies. Papers taught at the University are designed to offer students the opportunity to develop these competencies. These are either explicitly integrated throughout the curriculum or taught as stand-alone “Disciplinary Foundations” papers.
+> [The University of Waikato's Graduate Attributes](https://www.waikato.ac.nz/assets/Uploads/Student-life/Teaching-and-Learning/Teaching-Development-Team/Teaching-resources/University-of-Waikato-Graduate-Attributes.pdf) outline the competencies that graduates are expected to develop during their studies. Papers taught at the University are designed to offer students the opportunity to develop these competencies. These are either explicitly integrated throughout the curriculum or taught as stand-alone “Disciplinary Foundations” papers.
 >
-> Looking specifically at the second dimension of the HeDiCom framework, *Empowering students for a digital society*, how closely do these competencies align with those of the Graduate Attributes?
-> Familiarise yourself with the behavioural indicators for the Empowering students for a digital society dimension. Which indicators provide good matches with the corresponding Graduate Attributes?
-> Which indicators would you be best placed to assess in your paper?
-> Do the Graduate Attributes align with Belshaw's eight elements?
+> In this activity you will compare Graduate Attributes with the second dimension of the HeDiCom framework, *Empowering students for a digital society*, and Belshaw's eight elements.
 >
 > Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
 
