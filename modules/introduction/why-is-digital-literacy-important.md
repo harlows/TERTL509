@@ -47,7 +47,7 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube.com/embed/MSK1Iw1XtwQ?si=A4Y7Isj37IzqcN6y"></iframe>
+      src="https://www.youtube.com/watch?v=sPOG3iThmRI"></iframe>
   </div>
 
 * * *
@@ -56,10 +56,10 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 
 * * *
 
-### Activity
+### Activity #7
 #### Mapping
 :fas fa-clock fa-fw: *Allow about 60 minutes*
-> Download the Visitors & Residents template and have a go at mapping your own digital practices. Take a look at some examples to help you get started.
+> In this activity you will have a go at mapping your own digital practices using the Residents and Vistors process.
 >
 > Visit the Visitors and Residents activity for full instructions and Activity Bank submission link.
 
