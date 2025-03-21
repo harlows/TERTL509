@@ -11,6 +11,6 @@ You probably already use a range of technologies and digital tools in different 
 >
 > That’s how David Hopkins defined ‘Emergency rations’ in [his book of the same name](https://www.dontwasteyourtime.co.uk/books/edtechrations/). Those essential tools, platforms, or practices you rely on so much you just can’t leave at ‘home’.
 >
-> Visit the Emergency Rations activity for full instructions and Activity Bank submission link.
+> Visit the [Emergency Rations activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975272) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")

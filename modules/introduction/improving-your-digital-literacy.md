@@ -5,11 +5,11 @@ In today’s rapidly evolving digital world, teaching goes beyond delivering con
 * * *
 
 ### Activity #8
-#### Taking Stock: How digitally literate are you?
+#### Taking Stock
 :fas fa-clock fa-fw: *Allow about 15 minutes*
 > Now that you have thought about your use of digital tools and practises, let's take stock of where you are right now. What are your key areas of digital competence as a university teacher? Identifying your strengths will help you build on those and focus on areas for development.
 >
-> Visit the Taking Stock activity for full instructions and Activity Bank submission link.
+> Visit the [Taking Stock activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041992) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 

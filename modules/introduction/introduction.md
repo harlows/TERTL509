@@ -24,6 +24,6 @@ By the end of this paper you will be able to define the concept of digital liter
 > - Write a brief note explaining why you think the resource is valuable.
 > - Tag it with appropriate keywords to increase its discoverability.
 >
-> Visit the Bookmark This! activity for full instructions and Activity Bank submission link.
+> Visit the [Bookmark This! activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975271) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")

@@ -32,7 +32,7 @@ As you see from the timeline, the concept of digital literacy only started to ga
 > [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
 > In this activity you will read a series of blog posts about the recent history of digital literacy and as you read, highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
 >
-> Visit the Hypothes.ising activity for full instructions and Activity Bank submission link.
+> Visit the [Hypothes.ising activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
 
@@ -60,7 +60,7 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 >
 > Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the [Digital Archive of Literacy Narratives](https://www.thedaln.org/).
 >
-> Visit the My (Digital) Story activity for full instructions and Activity Bank submission link.
+> Visit the [My (Digital) Story activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 

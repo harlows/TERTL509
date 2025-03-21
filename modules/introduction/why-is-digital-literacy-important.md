@@ -57,11 +57,11 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 * * *
 
 ### Activity #7
-#### Mapping
+#### Visitors and Residents
 :fas fa-clock fa-fw: *Allow about 60 minutes*
 > In this activity you will have a go at mapping your own digital practices using the Residents and Vistors process.
 >
-> Visit the Visitors and Residents activity for full instructions and Activity Bank submission link.
+> Visit the [Visitors and Residents activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041989) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 

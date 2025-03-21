@@ -61,6 +61,6 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 >
 > In this activity you will compare Graduate Attributes with the second dimension of the HeDiCom framework, *Empowering students for a digital society*, and Belshaw's eight elements.
 >
-> Visit the Frameworks in the wild activity for full instructions and Activity Bank submission link.
+> Visit the [Frameworks in the wild activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2042001) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
