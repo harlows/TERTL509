@@ -54,18 +54,6 @@ The dimensions are interconnected, for example, consider *2. Empowering students
 
 * * *
 
-### Activity #5
-#### Hypothes.ising
-:fas fa-clock fa-fw: *Allow about 30 minutes*
-> [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
-> In this activity you will read the paper and as you read, highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
->
-> Visit the Hypothes.ising activity for full instructions and Activity Bank submission link.
-
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
-
-* * *
-
 ### Activity #6
 #### Frameworks in the wild
 :fas fa-clock fa-fw: *Allow about 60 minutes*
