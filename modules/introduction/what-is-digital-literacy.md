@@ -38,11 +38,15 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 * * *
 
 ### Activity #4
-#### Personal Technology Timeline
+#### My (Digital) Literacy Story
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
-> Timelines are a great way to show milestones and development over time. When you were thinking about your (digital) literacy story you probably brainstormed the defining moments in your digital life: your first computer, your first internet connection, or when you joined a particular social media platform. In this activity you will present these digital milestones in a timeline format.
+> Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. When you created your timeline for [Activity #3](what-is-literacy.md#activity-3) you might have realised one event more than the others was a defining moment.
 >
-> Visit the Personal Technology Timeline activity for full instructions and Activity Bank submission link.
+> However, digital literacy narratives can also be understood as simply narratives that use a medium beyond the print-based essay to tell the story. [Mark C. Marino's digital literacy narrative](https://www.thedaln.org/#/detail/2a492736-6ec8-46b0-b9b4-6b419ad4edd3) fits into both categories. While his [writerresponsetheory.org blog](https://writerresponsetheory.org/wordpress) is no longer current, he still maintains an online presence at [markcmarino.com](https://markcmarino.com/wordpress/).
+>
+> Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the [Digital Archive of Literacy Narratives](https://www.thedaln.org/).
+>
+> Visit the My (Digital) Story activity for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
 
