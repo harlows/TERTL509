@@ -26,4 +26,4 @@ By the end of this paper you will be able to define the concept of digital liter
 >
 > Visit the [Bookmark This! activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975271) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975271 " :class=button")

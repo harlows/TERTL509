@@ -13,4 +13,4 @@ You probably already use a range of technologies and digital tools in different 
 >
 > Visit the [Emergency Rations activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975272) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975272 ":class=button")

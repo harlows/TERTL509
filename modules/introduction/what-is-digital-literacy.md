@@ -34,7 +34,7 @@ As you see from the timeline, the concept of digital literacy only started to ga
 >
 > Visit the [Hypothes.ising activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274 " :class=button")
 
 * * *
 
@@ -62,10 +62,10 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 >
 > Visit the [My (Digital) Story activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275 ":class=button")
 
 * * *
 
-### A condition, not a threshold
+### A Condition, Not a Threshold
 
 Another important concept to understand when talking about digital literacies is that their aquisition is an ongoing process. Maintaining your digital literacy requires constant adaptation to the ever-changing digital landscape. This means that digital literacy is not a one-time achievement but a continuous journey. As new technologies emerge and evolve, so too must our skills and understanding. Staying digitally literate involves regularly updating our knowledge and being open to learning new tools and platforms. To return to our guitar analogy, even experienced guitarists continue to learn and adapt to new music trends and technologies.

@@ -11,6 +11,6 @@ In today’s rapidly evolving digital world, teaching goes beyond delivering con
 >
 > Visit the [Taking Stock activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041992) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041992 " :class=button")
 
                

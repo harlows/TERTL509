@@ -63,5 +63,5 @@ Understanding models like Visitors & Residents will help you reflect on how youâ
 >
 > Visit the [Visitors and Residents activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041989) for full instructions and Activity Bank submission link.
 
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/ ":class=button")
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2041989 ":class=button")
 
