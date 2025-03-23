@@ -1,6 +1,6 @@
 ## The Concept of Digital
 
-So what is digital? When you were thinking about athe defining digital moments in your personal or professional life in [Activity #3](what-is-literacy.md#activity-3), you probably thought about the digital tools and technologies that are available to you. For example, the first time you used a cell phone, or the first time you saw a computer. But the digital part (just like literacy) depends on context. The technology that you use and may even take for granted is not the same technology that your grandparents use or that students in another country use. This is why the concept of digital literacy is more often now referred to as digital literacies as a plural, acknowledging the variability of what is both available and relevant.
+So what is digital? When you were thinking about the defining digital moments in your personal or professional life in [Activity #3](what-is-literacy.md#activity-3), you probably thought about the digital tools and technologies that are available to you. For example, the first time you used a cell phone, or the first time you saw a computer. But the digital part (just like literacy) depends on context. The technology that you use and may even take for granted is not the same technology that your grandparents use or that students in another country use. This is why the concept of digital literacy is more often now referred to as digital literacies as a plural, acknowledging the variability of what is both available and relevant.
 
 * * *
 

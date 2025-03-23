@@ -68,7 +68,7 @@ The pyramid represents a cyclical process for developing digital literacy skills
 ### Activity #3
 #### My Personal Technology Timeline
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
-> Timelines are a great way to show milestones and development over time. Brainstormed the defining moments in your digital life: your first computer, your first internet connection, or when you joined a particular social media platform. In this activity you will present these digital milestones in a timeline format.
+> Timelines are a great way to show milestones and development over time. In this activity you will brainstorm the defining moments in your digital life (e.g., your first computer, your first internet connection, or when you joined a particular social media platform), and present these digital milestones in a timeline format.
 >
 > Visit the [My Personal Technology Timeline activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975273) for full instructions and Activity Bank submission link.
 

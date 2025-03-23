@@ -13,7 +13,7 @@ As you watch the following video, reflect on why digital literacy matters to you
 
 > Why does digital literacy matter to you? Share your thoughts with the Community!
 
-[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/ " :class=button")
+[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=2042292 " :class=button")
 
 * * *
 #### Generational View of Digital Natives
