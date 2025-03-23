@@ -30,7 +30,7 @@ As you see from the timeline, the concept of digital literacy only started to ga
 #### Hypothes.ising
 :fas fa-clock fa-fw: *Allow about 30 minutes*
 > [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
-> In this activity you will read a series of blog posts about the recent history of digital literacy and as you read, highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
+> In this activity you will read a series of blog posts about the recent history of digital literacy, and as you read, you will highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
 >
 > Visit the [Hypothes.ising activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274) for full instructions and Activity Bank submission link.
 
