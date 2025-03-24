@@ -10,13 +10,16 @@ Although the definition of digital literacy is still debated, our understanding 
 
 ©2019 DQ Institute (Used with permission)
 
+> Check out some of the frameworks, don't forget you can bookmark anything you find useful to help you (or others) find it again.
+> Strengthen your collaborative annotation skills by using hypothes.is to highlight things that stand out to you or to make comments.
+
 UNESCO has developed a [Digital Competence Framework database](https://unevoc.unesco.org/home/Digital+Competence+Frameworks/) which categorises 38 frameworks into 11 distinct target groups. While most frameworks focus on education, none have been specifically developed for the higher education context.
 
 * * *
 
 ### Context is King
 
-The diversity of target groups in the UNESCO database demonstrates that digital literacies vary significantly based on context. For instance, the digital skills and competencies required by a primary school teacher differ from those needed by a healthcare worker. To address this, frameworks have been developed that are aimed at these sectors, but usually these are adaptions of existing frameworks. For example, Education Scotland has developed a framework for school teachers based on the DigComp2 framework, and the UK's National Health Service developed a Health and Care Digital Capabilities Framework influenced by JISC's Digital Capacity framework. In New Zealand, what work has been done is well summarised in the TEC's Scoping a Digital Skills Framework (2023).
+The diversity of target groups in the UNESCO database demonstrates that digital literacies vary significantly based on context. For instance, the digital skills and competencies required by a primary school teacher differ from those needed by a healthcare worker. To address this, frameworks have been developed that are aimed at these sectors, but usually these are adaptions of existing frameworks. For example, Education Scotland has developed a framework for school teachers based on the DigComp2 framework, and the UK's National Health Service developed a Health and Care Digital Capabilities Framework influenced by JISC's Digital Capacity framework. In New Zealand, what work has been done is well summarised in the [TEC's Scoping a Digital Skills Framework (2023)](https://ako.ac.nz/knowledge-centre/digital-skills-framework/scoping-a-digital-skills-framework-for-aotearoa-new-zealand).
 
 Doug Belshaw took a different approach, acknowledging the ambiguity and context dependence of digital literacy. Rather than focusing on competencies, he listed eight essential elements that could be used as building blocks to start a conversation about defining digital literacy in any given context:
 

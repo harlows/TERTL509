@@ -60,7 +60,7 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 >
 > Create your own literacy narrative that tells of a significant experience you had with (digital) literacy in your personal or professional life. Optionally, use a multi-modal tool that includes audio and images or video. You might like to consider depositing your literacy narrative into the [Digital Archive of Literacy Narratives](https://www.thedaln.org/).
 >
-> Visit the [My (Digital) Story activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275) for full instructions and Activity Bank submission link.
+> Visit the [My (Digital) Literacy Story activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275) for full instructions and Activity Bank submission link.
 
 [:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975275 ":class=button")
 
