@@ -10,3 +10,6 @@ In this module, you will be introduced to the concept of digital literacy and wh
 * Examine how digital literacy differs between people based on the context in which they live and learn and the way they use technology
 * Use a basic framework to assess your own digital literacy
 * Reflect on your digital literacy
+
+> ##### Acknowledgement:
+> Parts of this module are based Brown, C. (2019). [Introduction to digital literacy](https://pressbooks.library.torontomu.ca/digcit/chapter/chapter-1/). In [Digital Citizenship Toolkit](https://pressbooks.library.torontomu.ca/digcit).
