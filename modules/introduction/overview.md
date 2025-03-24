@@ -11,4 +11,4 @@ In this module, you will be introduced to the concept of digital literacy and wh
 * Use a basic framework to assess your own digital literacy
 * Reflect on your digital literacy
 
-> Parts of this module are based on Brown, C. (2019). [Introduction to digital literacy](https://pressbooks.library.torontomu.ca/digcit/chapter/chapter-1/). In [Digital Citizenship Toolkit](https://pressbooks.library.torontomu.ca/digcit).
+>! Parts of this module are based on Brown, C. (2019). [Introduction to digital literacy](https://pressbooks.library.torontomu.ca/digcit/chapter/chapter-1/). In [Digital Citizenship Toolkit](https://pressbooks.library.torontomu.ca/digcit).
