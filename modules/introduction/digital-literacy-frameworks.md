@@ -36,6 +36,18 @@ While Belshaw's model has significantly contributed to the discourse on digital 
 
 * * *
 
+### Activity #5
+#### Hypothes.ising
+:fas fa-clock fa-fw: *Allow about 30 minutes*
+> [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
+> In this activity you will read a series of blog posts reviewing digital literacy frameworks, and as you read, you will highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
+>
+> Visit the [Hypothes.ising activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274) for full instructions and Activity Bank submission link.
+
+[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274 " :class=button")
+
+* * *
+
 ### The HeDiCom Framework
 
 The [the Higher Education Digital Competency (HeDiCom) Framework](https://doi.org/10.1007/s11423-023-10193-5) is relevant as its focus is solely on higher education teachers and explicitly addresses students’ digital literacy. What's more the framework acknowledges students' disciplinary or professional context. The framework comprises four main dimensions:

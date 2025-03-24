@@ -26,18 +26,6 @@ As you see from the timeline, the concept of digital literacy only started to ga
 
 * * *
 
-### Activity #4
-#### Hypothes.ising
-:fas fa-clock fa-fw: *Allow about 30 minutes*
-> [Hypothes.is](https://web.hypothes.is) is a way to collaboratively annotate the web.
-> In this activity you will read a series of blog posts about the recent history of digital literacy, and as you read, you will highlight and annotate things that resonate with you. As you annotate, you’re creating footprints for other students that complete the paper.
->
-> Visit the [Hypothes.ising activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274) for full instructions and Activity Bank submission link.
-
-[:fas fa-regular fa-university: Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1975274 " :class=button")
-
-* * *
-
 The view of digital literacy offered by Jisc (2015) is even more comprehensive, defining digital literacy as “the capabilities which fit someone for living, learning and working in a digital society” (para. 3).  The [capabilities outlined by Jisc](https://digitalcapability.jiscinvolve.org/wp/files/2015/06/1.-Digital-capabilities-6-elements.pdf):
 
 - information, media, data literacy (critical use);
@@ -51,7 +39,7 @@ Beyond functional and critical skills, the definitions and digital capabilities 
 
 * * *
 
-### Activity #5
+### Activity #4
 #### My (Digital) Literacy Story
 :fas fa-clock fa-fw: *Allow at least 60 minutes*
 > Literacy narratives are stories about reading or composing a message in any form or context. They often include poignant memories that involve a personal experience with literacy. Digital literacy narratives can sometimes be categorised as ones that focus on how the storyteller came to understand the importance of technology in their life or pedagogy. When you created your timeline for [Activity #3](what-is-literacy.md#activity-3) you might have realised one event more than the others was a defining moment.
