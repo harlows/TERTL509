@@ -49,7 +49,7 @@ A **behavioural indicator** is an observable action that demonstrates someone’
 | Competency | Switching between chords smoothly in a song | Transitions between chords are fluid and in time with the beat |
 | Literacy | Understanding music theory and applying it to guitar playing | Can improvise over a chord progression, transposes a song to a different key |
 
-So I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context. As we'll see later, context is also important when talking about digital literacies.
+So while I might consider myself somewhat competent, my degree of literacy as a guitarist will depend on context. I might be deemed literate in a singalong with friends, but not so in a band context. As we'll see later, context is also important when talking about digital literacies.
 
 * * *
 
