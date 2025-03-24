@@ -47,9 +47,14 @@ The [the Higher Education Digital Competency (HeDiCom) Framework](https://doi.or
 
 The dimensions are interconnected, for example, consider *2. Empowering students* and *3. Digital literacy for lecturers*. For lecturers to be able to educate students in digital literacy for living, learning and working, they must first attend to their own digital literacy competencies. A relationship that is backed by research evidence (Falloon, 2020). Furthermore, the quality of a lecturer’s digital literacy strongly correlates with their ability to teach effectively with digital technology (Mardiana, 2024).
 
-![HeDiCom framework](images/HeDiCom.png)
+<iframe src="https://elearn.waikato.ac.nz/h5p/embed.php?url=https%3A%2F%2Felearn.waikato.ac.nz%2Fpluginfile.php%2F3753171%2Fmod_h5pactivity%2Fpackage%2F0%2FHeDiCom.h5p&amp;component=mod_h5pactivity" name="h5player" width="1522" height="1147"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="67e0d8f54189367e0d8f5418961-h5player">
+</iframe><script src="https://elearn.waikato.ac.nz/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
 
 "[The HeDiCom framework](https://link.springer.com/article/10.1007/s11423-023-10193-5/figures/1)" by [Tondeur et al. (2023)](https://rdcu.be/d76Oc) [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+> Explore the HeDiCom framework dimensions and competencies by clicking on the image hotspots.
 
 [A set of behavioural indicators](https://www.ixperium.nl/onderzoeken-en-ontwikkelen/publicaties/behavioural-indicators-for-teaching-and-learning-with-technology-in-higher-education-complementary-to-the-framework-for-digital-competences-of-lecturers-acceleration-plan/) has also been developed to provide practical examples of the framework competencies. These describe examples of observable actions that digitally competent lecturers might display.
 
