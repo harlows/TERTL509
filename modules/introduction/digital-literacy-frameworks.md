@@ -11,7 +11,6 @@ Although the definition of digital literacy is still debated, our understanding 
 ©2019 DQ Institute (Used with permission)
 
 > Check out some of the frameworks, and [bookmark](introduction.md#activity-1) anything you find useful to help you (or others) find it again.
-> Don't forget to strengthen your collaborative annotation skills by using [hypothes.is](what-is-digital-literacy.md#activity-4) to highlight things that stand out to you or to make comments.
 
 UNESCO has developed a [Digital Competence Framework database](https://unevoc.unesco.org/home/Digital+Competence+Frameworks/) which categorises 38 frameworks into 11 distinct target groups. While most frameworks focus on education, none have been specifically developed for the higher education context.
 
